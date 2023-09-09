@@ -43,9 +43,8 @@
         <Button
             android:id="@+id/button"
             android:layout_width="match_parent"
-        7
-        android:layout_height="wrap_content"
-        android:layout_margin="20dp"
-        android:text="@string/calc_imc" />
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="@string/calc_imc" />
     </LinearLayout>
 </layout>
